@@ -30,8 +30,6 @@ Então por que não usar `PUT` no lugar de `POST`? Justamente por estarmos "cria
 
 Talvez fique difícil enxergar por ser apenas um número, mas pense que cada like seja salvo em uma tabela no banco junto do usuário que realizou esse like. Agora fica mais claro que você está criando um novo like, certo?
 
-Bons estudos <3
-
 ### Específicação dos testes
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
